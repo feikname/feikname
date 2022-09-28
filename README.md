@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Flavio
+- 👀 I’m interested in operating systems and High Performance Computing
+- 👩‍🎓 I’m currently a 3rd year computer engineering Student
